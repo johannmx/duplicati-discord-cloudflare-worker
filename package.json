@@ -21,6 +21,6 @@
     "eslint": "^9.23.0",
     "eslint-plugin-format": "^1.0.1",
     "vitest": "^3.0.9",
-    "wrangler": "^4.4.0"
+    "wrangler": "^4.59.1"
   }
 }
