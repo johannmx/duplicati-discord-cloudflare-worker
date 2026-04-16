@@ -12,7 +12,7 @@
     "lint:fix": "eslint --fix"
   },
   "dependencies": {
-    "hono": "^4.12.12"
+    "hono": "^4.12.14"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^4.11.0",
